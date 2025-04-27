@@ -1,0 +1,23 @@
+Week 11: Final Polishing and Feedback Incorporation
+This week, we polished the system based on internal testing feedback.
+
+We made small but impactful improvements such as:
+
+Faster loading of exam questions.
+
+Instant save notification after each answer update.
+
+Auto-scroll and focus improvements in long exams.
+
+We also finalized the Question Generator by improving the quality of generated questions and adding filters based on keywords.
+
+Additionally, we shared the platform with a small group of test professors and students and collected feedback.
+Minor UX tweaks (like improved back buttons, clearer progress bars, etc.) were done based on their suggestions.
+
+Outcome:
+
+Final polish and optimizations completed.
+
+External feedback collected and addressed.
+
+System ready for full integration testing.
