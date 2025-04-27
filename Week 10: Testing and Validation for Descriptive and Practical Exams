@@ -1,0 +1,29 @@
+Week 10: Testing and Validation for Descriptive and Practical Exams
+This week, we carried out extensive testing for the new exam types (descriptive and practical).
+
+For descriptive exams, we tested scenarios like:
+
+Auto-saving during network issues.
+
+Word limit validations.
+
+Professor manual grading flow.
+
+For practical exams, we tested:
+
+Code editor functionalities.
+
+File upload limits and validation.
+
+Handling of corrupted files and late submissions.
+
+We fixed multiple minor bugs identified during testing, especially related to file uploads, editor crashes, and answer submission edge cases.
+A checklist was prepared to ensure all critical features were covered before launch.
+
+Outcome:
+
+Successful internal testing of descriptive and practical exam modules.
+
+Bugs identified and resolved.
+
+Feature validation checklist prepared.
