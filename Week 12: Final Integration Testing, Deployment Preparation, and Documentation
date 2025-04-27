@@ -1,0 +1,22 @@
+Week 12: Final Integration Testing, Deployment Preparation, and Documentation
+In the final week, we focused on full system integration testing to ensure that all newly developed modules — objective exams, descriptive exams, practical exams, and the question generator — were working seamlessly together.
+
+We performed thorough testing across different user roles (students, professors, admins), different devices, and various network conditions. Special scenarios like exam submission failures, timeouts, and re-attempts were also tested.
+
+Alongside testing, we prepared for deployment:
+
+Optimized the backend and database for better performance and security.
+
+Conducted code clean-up and documentation updates.
+
+Created user manuals and tutorial videos for professors and students to understand how to use the new features.
+
+We also finalized a demo presentation to showcase the new additions and improvements in Exam.ai.
+
+Outcome:
+
+Full system integration tested and passed.
+
+Deployment-ready build created.
+
+Documentation, manuals, and demo materials completed.
