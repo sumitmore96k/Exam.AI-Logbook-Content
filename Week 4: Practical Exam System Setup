@@ -1,0 +1,15 @@
+Week 4: Practical Exam System Setup
+This week’s focus was on starting the practical exam module.
+We researched different methods for handling practical exams, such as live code editor integration (e.g., using Monaco Editor) and secure file upload mechanisms for project-based exams.
+
+The backend was updated to allow large file uploads and submissions with multiple files if needed. We also designed the practical exam flow, including instructions page, assignment details, code/file upload interface, and final submission.
+
+On the frontend, we built a basic prototype screen where students could write code, upload project files, and submit them easily. Error handling and confirmation prompts were added to ensure a smooth user experience.
+
+Outcome:
+
+Practical exam backend designed for code/file submissions.
+
+Frontend prototype for practical exam flow created.
+
+Research completed for code editor integration options.
