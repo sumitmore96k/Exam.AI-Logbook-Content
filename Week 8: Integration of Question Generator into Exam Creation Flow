@@ -1,0 +1,16 @@
+Week 8: Integration of Question Generator into Exam Creation Flow
+In Week 8, we completed the integration of the Question Generator into the main exam creation module.
+Now, when creating an exam (objective or descriptive), admins can directly use the generator to auto-populate questions based on selected topics and difficulty levels.
+
+We added options to regenerate questions, edit them manually, and mix generated questions with manually entered questions.
+This made the exam creation process much faster and more dynamic for professors.
+
+We also did initial testing of the generator by creating sample exams and analyzing the quality and relevance of generated questions.
+
+Outcome:
+
+Question generator fully integrated with exam creation workflow.
+
+Admins can create exams faster using generated questions.
+
+Sample exam creation and internal review completed.
