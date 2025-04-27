@@ -1,0 +1,17 @@
+Week 7: Extension of Question Generator for Descriptive Questions
+Building upon the MCQ generator, we worked this week on expanding the system to also generate descriptive questions.
+We developed new templates suitable for short-answer and long-answer questions — e.g., "Explain the concept of ___ in your own words" or "Discuss the importance of ___ with examples."
+
+The backend logic was enhanced to handle descriptive question generation using both manual templates and small AI models for rephrasing topics into open-ended questions.
+
+We added parameters for difficulty level, estimated word count, and topic specificity to make the generated descriptive questions more useful for teachers.
+
+The admin interface was also updated to allow viewing, editing, and categorizing descriptive questions.
+
+Outcome:
+
+Descriptive question generation logic implemented.
+
+Enhanced admin panel to support multiple question types.
+
+Categorization based on difficulty and topic added.
