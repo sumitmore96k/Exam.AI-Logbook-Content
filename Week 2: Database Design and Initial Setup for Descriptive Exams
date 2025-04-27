@@ -1,0 +1,16 @@
+Week 2: Database Design and Initial Setup for Descriptive Exams
+In Week 2, we focused on starting the technical groundwork for the newly planned features.
+The first major task was updating the database schema to support descriptive and practical exam types. We designed new tables and modified existing ones to accommodate longer text answers, file uploads for practical exams, and new metadata like word limits, evaluation status, and submission timestamps.
+
+Parallelly, we started the initial backend setup for descriptive exams. We created APIs for uploading descriptive answers, auto-saving responses, and submitting completed exams. On the frontend side, we started building wireframes and basic UI screens for descriptive questions, including a rich text editor for students to type their answers.
+
+We also finalized the structure for how descriptive exams will be evaluated — including manual checking by professors and future scope for semi-automated keyword-based checking.
+
+Outcome:
+
+Database schema updated to support new exam types.
+
+Basic API routes created for descriptive exam flow.
+
+Initial frontend wireframes ready for descriptive exams.
+
