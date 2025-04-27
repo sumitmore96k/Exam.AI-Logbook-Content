@@ -1,0 +1,15 @@
+Week 1: Project Planning and Initial Research
+This week, we officially started the expansion phase of Exam.ai.
+Our primary focus was on detailed project planning and finalizing the new features to be added. We discussed and confirmed the addition of descriptive exam support, practical exam handling, and a question generation system for both objective and descriptive types.
+
+We conducted requirement-gathering sessions to understand how descriptive answers would be stored, evaluated, and displayed to professors. For the practical exams, we brainstormed different exam types (such as coding exercises, file uploads, and project submissions) and how we could integrate them seamlessly into the platform.
+
+Alongside this, we began researching different question generation techniques — including template-based models, simple random generation, and AI-assisted methods — to find an approach suitable for both MCQs and descriptive questions. We documented all findings to use in the design phase.
+
+Outcome:
+
+Feature list finalized.
+
+Requirement document drafted for new exam types.
+
+Research notes compiled for question generation models.
