@@ -1,0 +1,15 @@
+Week 3: Development of Descriptive Exam Module
+This week, we continued working on the descriptive exam feature.
+We completed the core backend APIs to handle descriptive question retrieval, answer saving, and final submission. We added validations like minimum/maximum word limits and auto-save functionality to prevent data loss during long writing sessions.
+
+On the frontend, we developed the descriptive exam UI — including a clean text editor, timer integration, and navigation between questions. We also added functionality for students to review their answers before final submission.
+
+Additionally, we created an admin view where professors can see submitted descriptive answers, and mark them manually with optional comments.
+
+Outcome:
+
+Backend and frontend flow for descriptive exams completed.
+
+Manual evaluation panel for professors implemented.
+
+Descriptive exam module ready for internal testing.
