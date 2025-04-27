@@ -1,0 +1,16 @@
+Week 5: Backend Development for Practical Exams
+Continuing from Week 4, we moved deeper into backend development for the practical exams.
+We finalized the API routes for practical exam assignment retrieval, file/code submission, and evaluation status updates.
+
+Security measures like file type validation, submission deadlines, and plagiarism detection (basic checks) were discussed and partially implemented.
+We also enhanced the frontend interface for practical exams by adding drag-and-drop upload support, syntax highlighting in the code editor, and preview options for submitted files.
+
+Simultaneously, we started drafting documentation for professors on how to create practical assignments and view submissions.
+
+Outcome:
+
+Practical exam submission flow (backend + frontend) completed.
+
+Security and validation measures implemented.
+
+Practical exam documentation (draft version) created for internal review.
