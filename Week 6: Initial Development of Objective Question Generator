@@ -1,0 +1,17 @@
+Week 6: Initial Development of Objective Question Generator
+This week, we shifted focus to building the Question Generator system, starting with objective (MCQ) questions.
+We researched different strategies like keyword-based question creation, question templates, and basic AI-assisted question generation models.
+
+The first version of the question generator was implemented using a template-based system — where we defined structures like "What is the definition of ___?" or "Which of the following is true about ___?".
+Questions were generated dynamically based on inputs like topics, difficulty level, and keywords.
+
+The backend APIs were developed to allow the admin to input a topic and get a set of auto-generated MCQs.
+We also created a small frontend tool where admins can review, edit, and accept/reject generated questions before adding them to exams.
+
+Outcome:
+
+First version of MCQ Question Generator completed.
+
+Admin tool for reviewing and editing generated questions built.
+
+Research and strategy for expanding to descriptive questions initiated.
